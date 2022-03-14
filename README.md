@@ -1,3 +1,3 @@
-Consider Donating:
+SHBMultiKeyGen v1 and v1.1 requires net framework 3 or higher
 
-Btc:b14e7bc7-b315-446e-a5a3-c0833ee077e1
+SHBMultiApp v2.0 requires net framework 6 or higher
